@@ -1,0 +1,11 @@
+What i learned so far:
+
+react is a javascript library that has prebuilt components and hooks to call in.
+node.js is more like a runtime envoirment with more back end properties also serves as a framework
+vite is a tool to compile and optimize your code for production, resulting in faster build times and smaller bundle sizes
+
+how i created my project
+npm create vite@latest my-portfolio -- --template react
+cd my-portfolio
+npm install
+npm run dev
