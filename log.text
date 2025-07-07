@@ -9,3 +9,14 @@ npm create vite@latest my-portfolio -- --template react
 cd my-portfolio
 npm install
 npm run dev
+
+
+vandaag heb ik veel geleerd over react in de main.jsx zet je alleen react logic en importeer je components van de react library
+in de app.jsx staat alles dat moet worden ingeladen idere pagina die je aanmaakt word hier geimporteerd en toegevoegd als route path zodat de pagina ingeladen kan worden
+voor toekomstige css beste is om footer folder te maken en daarin footer.jsx en footer css 
+ik heb zo juist over css modules geleerd ook bijna hetzelfde als normale css maar hier baseer je de html element naam op de css module naam en normaal css andersom 
+de module files worden ook anders uitgetypte zoals footer.module.css je importeert de css file in de component die je nodig hebt en dan acces je de css als import custom name from file location 
+en de html is dan <button className={customname.groen}>Button1</button>
+
+je kan default functions importeren zoals gewoonlijk maar je kan ook losse functies importeren door ze te omringen met curly braces import {function name} from 'function/path'
+
