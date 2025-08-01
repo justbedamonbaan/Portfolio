@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div className="home-container">
-      <div className="profile-image"></div>
+      <div className="profile-image"> <img src="/damon.jpg" alt='Damon Baan'/></div>
       <h1 className="home-title">Hi, I'm Damon Baan.</h1>
       <p className="home-subtitle">Front end Developer specializing in React and JS</p>
       <div>

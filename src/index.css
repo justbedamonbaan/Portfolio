@@ -68,12 +68,10 @@ body {
 }
 
 .profile-image {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  background-color: #ddd;
+  width: auto;
+  height: auto;
   margin: 0 auto 1.5rem;
-  border: 2px dashed #aaa;
+  border-radius: 15%;
 }
 
 .home-title {

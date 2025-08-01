@@ -1,10 +1,9 @@
 export default function Projects() {
   // Example project data
   const projects = [
-    { id: 1, title: 'Blog', description: 'Built with React and Node.js' },
-    { id: 2, title: 'Portfolio Site', description: 'Created with React, Vite and Node.js' },
-    { id: 3, title: 'hub', description: 'Full stack application with' },
-    { id: 4, title: 'small games', description: 'Python and Javascript based games', link: 'https://justbedamonbaan.itch.io/' },
+    { id: 1, title: 'Anime-list', description: 'Search top animes and add them to you favorites', link: 'https://anime-list-lime-six.vercel.app/' },
+    { id: 2, title: 'Projects', description: 'Small projects created with React, Vite and Node.js', link: 'https://projects-seven.vercel.app/'},
+    { id: 3, title: 'small games', description: 'Python and Javascript based games', link: 'https://justbedamonbaan.itch.io/' },
   ];
 
   return (

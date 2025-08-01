@@ -8,7 +8,7 @@ how i created my project
 npm create vite@latest my-portfolio -- --template react
 cd my-portfolio
 npm install
-npm run dev
+npm run dev om server te starten
 
 
 vandaag heb ik veel geleerd over react in de main.jsx zet je alleen react logic en importeer je components van de react library
