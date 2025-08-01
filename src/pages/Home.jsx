@@ -5,8 +5,8 @@ export default function Home() {
       <h1 className="home-title">Hi, I'm Damon Baan.</h1>
       <p className="home-subtitle">Front end Developer specializing in React and JS</p>
       <div>
-        <a href="/Projects" className="btn btn-primary">View My Work</a>
-        <a href="/Contact" className="btn btn-secondary">Contact</a>
+        <a href="/projects" className="btn btn-primary">View My Work</a>
+        <a href="/contact" className="btn btn-secondary">Contact</a>
       </div>
       
       <div style={{ marginTop: '50px' }}>
